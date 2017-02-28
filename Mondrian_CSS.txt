@@ -1,0 +1,55 @@
+.parent {
+	display: flex;
+	border: 1px solid black;
+  background: black;
+	width: 400px;
+	height: 200px;
+  align-items: center;
+  justify-content: space-around;
+  padding: 1px;
+  flex-flow: row wrap;
+  
+  }
+
+.b1 {
+	background-color: red;
+	height:90px;
+	width: 160px;
+	margin: 5px;
+  margin-right: auto
+    
+}
+
+.b2 {
+  	background-color: green;
+	height:90px;
+	width: 140px;
+	margin: 5px;
+}
+
+.b3 {
+  	background-color: white;
+	height:90px;
+	width: 60px;
+	margin: 5px;
+}
+.b4 {
+  	background-color: blue;
+	height:90px;
+	width: 120px;
+	margin: 5px;
+}
+
+.b6 {
+  	background-color: white;
+	height:90px;
+	width: 60px;
+	margin: 5px;
+}
+.b5 {
+  	background-color: red;
+	height:90px;
+	width: 160px;
+	margin: 5px;
+}
+
